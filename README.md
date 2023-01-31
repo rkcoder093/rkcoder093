@@ -1,8 +1,5 @@
-- Hi, I’m @rkcoder093
-- I’m interested in programing 
-- I’m currently learning Java Framework( Hibernate, spring boot)  and Web technologies FrameWork(react js, Angular Js, node js).
-- I'm curently working on react app developent project, which you can see my project in my-app repository.
-- I’m looking for job
+
+<h3>- Hi, I’m Ritik kumar keshri </h3>
 - How to reach me at keshri093@gmail.com
 
 <!---
