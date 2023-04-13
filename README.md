@@ -1,6 +1,6 @@
 
 <h3>- Hi, I’m Ritik kumar keshri </h3>
-- How to reach me at keshri093@gmail.com
+- reach me at keshri093@gmail.com
 
 <!---
 rkcoder093/rkcoder093 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
